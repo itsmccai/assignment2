@@ -1,12 +1,14 @@
 //
 //  all_letter.c
-//  StringLibrary
+//  Assignment_02
 //
-//  Created by apple on 2024/11/13.
+//  Created by apple on 2024/11/15.
 //
 
 #include <stdio.h>
 #include "library.h"
+
+
 
 int all_letter(char *s)
 {
